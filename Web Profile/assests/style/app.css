@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(#9a088d 0%, #dd4c4f 40%, #7420d3 100% );
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.profileimage {
+    width: 300px;
+}
+.BIODATA {
+    background: linear-gradient(#ffefff 0%, #ffffffd5 40%, #fdfdfd00 100% );
+    padding-bottom: 300px;
+    padding-top: 15px;
+}
+.footer {
+    background-color: #ffefff;
+    padding-bottom: 20px;
+}
+
+.CONTACT a {
+    color: blue;
+    font-size: 25px;
+}
+.container img {
+    justify-content: center;
+}
+
+
